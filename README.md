@@ -218,5 +218,13 @@ npm run dev
 ✔️ Uploaded to GitHub
 
 ---
+<img width="1366" height="768" alt="alfred_backend_setup_3" src="https://github.com/user-attachments/assets/7bae9af6-09e5-4a0f-b32c-079145fd61a0" />
+<img width="1366" height="768" alt="alfred_backend_2" src="https://github.com/user-attachments/assets/1e9a1a74-94ab-4ad6-a2a9-f44597151cde" />
+<img width="1366" height="768" alt="task" src="https://github.com/user-attachments/assets/170147b0-346f-425a-8f58-b17bfcf9d9ce" />
+<img width="1366" height="763" alt="db" src="https://github.com/user-attachments/assets/757bea76-a7ef-444a-96dc-008f524ddc56" />
+<img width="1366" height="765" alt="css" src="https://github.com/user-attachments/assets/c32cb5d5-4ae2-4dcb-b910-09646a844686" />
+<img width="1365" height="763" alt="api" src="https://github.com/user-attachments/assets/c2c13350-f8ac-440d-bc37-0d4ff93bacf1" />
+<img width="1366" height="765" alt="alfred_frontend_1" src="https://github.com/user-attachments/assets/ed01311c-93b7-4e19-8313-65ab30f22bcc" />
+
 
 
